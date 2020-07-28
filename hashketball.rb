@@ -25,7 +25,7 @@ def game_hash
         steals: 12,
         blocks:12 ,
         slam_dunks:7
-    
+
   }, {
     player_name: "Brook Lopez",
     number: 11,
@@ -57,7 +57,7 @@ def game_hash
      steals: 4,
      blocks: 11,
      slam_dunks: 1
-  
+
 }
 
   ]
@@ -65,7 +65,7 @@ def game_hash
     away:{
       team_name: "",
       colors: [],
-      players:[  
+      players:[
           {
           player_name: "Jeff Adrien",
           number: 4,
